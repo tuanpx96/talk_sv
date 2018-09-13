@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'talk_db',
         'USER': 'u_talk',
-        'PASSWORD': '1',
+        'PASSWORD': 't',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
